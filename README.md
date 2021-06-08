@@ -8,7 +8,7 @@
 * Giovanni Costagliola
 
 ## Me (Michelle Dozal) Personally
-Prior to this course I had never touched either Unity or C# and had ever thought about making games. After this course I feel like I learned so much and I'm proud of what I put into this game and what I accomplished
+Prior to this course I had never touched either Unity or C# and had ever thought about making games. The development was a total of 8 weeks using the scrum process and keeping an up-to-date log of what needed to be completed,what was in works, and what was already completed. Having another experience with the scrum process made me even more comfortable with it. I really enjoyed working on this project and looked forward to working on it. After this course I feel like I learned so much and I'm proud of what I put into this game and what I accomplished. 
 
 ## What I Personally Implemented
 * Health Bar & Player Health Scripts
